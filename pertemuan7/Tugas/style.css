@@ -1,0 +1,76 @@
+.gambaratas{
+    display: flex;
+    flex-wrap: wrap;
+    width: 1000px;
+}
+
+.gambarbawah{
+    display: flex;
+    width: 1000px;
+    height: 50px;
+}
+
+.box{
+    width: 300px;
+    margin: 5px;
+    height: 80px;
+    display: flex;
+    border: 3px solid rgb(0, 0, 0);
+    background-color: aliceblue;
+}
+
+.box1{
+    width: 300px;
+    background-size: 50px;
+    height: 40px;
+    background-image: url("img/1.jpeg")
+}
+
+.box2{
+    width: 300px;
+    background-size: 100px;
+    height: 40px;
+    background-image: url("img/2.jpeg")
+}
+
+.box3{
+    width: 300px;
+    background-size: 100px;
+    height: 40px;
+    background-image: url("img/3.jpeg")
+}
+
+.box4{
+    width: 300px;
+    background-size: 100px;
+    height: 40px;
+    background-image: url("img/4.jpeg")
+}
+
+.box5{
+    width: 300px;
+    background-size: 100px;
+    height: 40px;
+    background-image: url("img/5.jpeg")
+}
+
+.box6{
+    width: 300px;
+    background-size: 100px;
+    height: 40px;
+    background-image: url("img/6.jpeg")
+}
+
+.box7{
+    width: 300px;
+    background-size: 100px;
+    height: 40px;
+    background-image:url("img/7.jpg")
+}
+
+.box8{
+    width: 300px;
+    background-size: 100px;
+    height: 40px;
+    background-image: url("img/8.jpg")
+}
