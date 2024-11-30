@@ -172,8 +172,6 @@ section .main .button:hover i{
 
 
 
-/* Products Section */
-
 .products{
     width: 100%;
     padding: 25px 0;
@@ -282,7 +280,7 @@ section .main .button:hover i{
 }
 
 
-/* About Section */
+
 
 .about{
     width: 100%;
